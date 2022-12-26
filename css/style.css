@@ -265,16 +265,8 @@ body {
     margin: 0;
 }
 /* Форма */
-.contact {
-}
-.contact .block__head {
-}
 .contact .block__title {
     padding-top: 95px;
-}
-.block__text {
-}
-.contact__inner {
 }
 .contact__icon-box {
     display: flex;
@@ -291,9 +283,6 @@ body {
     color: #323232;
     font-size: 21px;
 }
-.icon-phone {
-
-}
 .contact__text {
     margin-bottom: 12px;
 }
@@ -309,10 +298,6 @@ body {
 .contact__text a:hover {
     color: #4b4b4b;
     text-decoration: underline;
-}
-.icon-location {
-}
-.icon-mail-alt {
 }
 .contact__form {
     padding-top: 153px;
